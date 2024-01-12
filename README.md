@@ -1,2 +1,1 @@
-# Recyclo
-Miniproject
+# wastage-app-front
